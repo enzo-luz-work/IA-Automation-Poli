@@ -8,7 +8,7 @@ Este repositório documenta minha evolução técnica em Inteligência Artificia
 - **Jacobiana Numérica:** Estimativa de derivadas vetoriais para sistemas de controle.
 
 ## Soluções para Negócios:
--Desenvolvo sistemas de triagem automática de leads e integração de dados para aumentar a eficiência comercial.
+-Desenvolvo sistemas de triagem automática de leads e integração de dados para aumentar a eficiência comercial.  
 -n8n e IA!
 
 ---
